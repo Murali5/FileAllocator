@@ -1,0 +1,9 @@
+D:\Project\FileAllocator\FileAllocator\FileAllocator\bin\Debug\FileAllocator.exe.config
+D:\Project\FileAllocator\FileAllocator\FileAllocator\bin\Debug\FileAllocator.exe
+D:\Project\FileAllocator\FileAllocator\FileAllocator\bin\Debug\FileAllocator.pdb
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.csprojResolveAssemblyReference.cache
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.Form1.resources
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.Properties.Resources.resources
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.csproj.GenerateResource.Cache
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.exe
+D:\Project\FileAllocator\FileAllocator\FileAllocator\obj\Debug\FileAllocator.pdb
